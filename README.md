@@ -2,7 +2,7 @@
 This is a Power BI interactive dashboard designed to analyze and visualize sales data across different categories, brands, locations, and supervisors. It provides real-time insights to help businesses monitor performance and identify growth opportunities.
 
 ## Dataset Used
-- <a href ="[https://github.com/vivekanand200108/excel-project/blob/main/Hospital%20Dashboard.xlsx](https://github.com/vivekanand200108/Sales-Dashboard/blob/main/Complete_Sales_Data-2.xlsx)">Dataset View</a>
+- <a href = "https://github.com/vivekanand200108/Sales-Dashboard/blob/main/Complete_Sales_Data-2.xlsx" >Dataset View</a>
 
 🧠 Project Objective
 To create a comprehensive, visually appealing sales performance dashboard for the year 2025–26 using Power BI that enables:
@@ -57,6 +57,9 @@ Pie & Bar Charts
 KPI Cards
 
 📷 Dashboard Preview
+
+<img width="612" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/69d66041-710c-4f26-91ec-1e513f72d6fc" />
+
 
 📌 Insights Gained
 Identified top-performing categories and least selling products
