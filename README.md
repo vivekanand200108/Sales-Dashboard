@@ -1,7 +1,10 @@
 # 📈 Sales Dashboard 2025–26 – Power BI Project
 This is a Power BI interactive dashboard designed to analyze and visualize sales data across different categories, brands, locations, and supervisors. It provides real-time insights to help businesses monitor performance and identify growth opportunities.
 
-##🧠 Project Objective
+## Dataset Used
+- <a href ="[https://github.com/vivekanand200108/excel-project/blob/main/Hospital%20Dashboard.xlsx](https://github.com/vivekanand200108/Sales-Dashboard/blob/main/Complete_Sales_Data-2.xlsx)">Dataset View</a>
+
+🧠 Project Objective
 To create a comprehensive, visually appealing sales performance dashboard for the year 2025–26 using Power BI that enables:
 
 Better understanding of category-wise sales
