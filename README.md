@@ -4,7 +4,7 @@ This is a Power BI interactive dashboard designed to analyze and visualize sales
 ## Dataset Used
 - <a href = "https://github.com/vivekanand200108/Sales-Dashboard/blob/main/Complete_Sales_Data-2.xlsx" >Dataset View</a>
 
-🧠 Project Objective
+## 🧠 Project Objective
 To create a comprehensive, visually appealing sales performance dashboard for the year 2025–26 using Power BI that enables:
 
 Better understanding of category-wise sales
@@ -15,31 +15,31 @@ Evaluation of brand-wise contribution
 
 Monitoring key KPIs like total sales, cost, and profit
 
-##🔍 Key Features
+## 🔍 Key Features
 📊 Quantity by Category
 Visual bar chart showing the quantity sold across product categories like Monitors, CPUs, SSDs, RAM, etc.
 
 🗺 Sales by State
 Geographic visualization of sales spread across different states using Power BI's map visual.
 
-##🍰 Total Sales by Brand
+## 🍰 Total Sales by Brand
 Pie chart showing brand-wise contribution (e.g., Intel, Samsung, Nvidia, Dell).
 
-##👨‍💼 Supervisor Tracker
+## 👨‍💼 Supervisor Tracker
 A clean sidebar listing individual supervisors for team performance monitoring.
 
-##📈 KPIs Tracked
-##✅ Total Sales: 16M
+## 📈 KPIs Tracked
+## ✅ Total Sales: 16M
 
-💰 Total Cost: 12M
+## 💰 Total Cost: 12M
 
-📦 Total Quantity: 1994 Units
+## 📦 Total Quantity: 1994 Units
 
-🔄 Transactions: 797
+## 🔄 Transactions: 797
 
-📊 Total Profit: 4M
+## 📊 Total Profit: 4M
 
-🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used
 Power BI Desktop
 
 Data Modeling
@@ -56,7 +56,7 @@ Pie & Bar Charts
 
 KPI Cards
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 <img width="612" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/69d66041-710c-4f26-91ec-1e513f72d6fc" />
 
